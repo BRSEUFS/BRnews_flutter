@@ -1,4 +1,4 @@
-# ovix
+# BR News
 
 A new Flutter application.
 
