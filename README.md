@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+ <img src="https://github.com/BRSEUFS/BRnews_flutter/blob/master/telas/Google%20Drive/20190414_213246.gif" alt="Noticias recentes"> 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
